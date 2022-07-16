@@ -1,0 +1,42 @@
+* {
+  margin:0;
+  padding: 0;
+}
+
+body {
+  background-color:lightblue;
+}
+
+.card {
+  margin-top: 100px;
+  margin-left: 455px;
+  width: 280px;
+  height: 460px;
+
+
+  border-radius: 18px;
+}
+
+.card2 {
+  margin-left: -269px;
+  margin-bottom: 192px;
+  border-radius: 15px;
+
+ }
+
+pre {
+  font-family: serif;
+  font-weight: 600;
+  font-size: 21px;
+  margin-left: 443px;
+  margin-top: -170px;
+}
+
+.pre2 {
+  color: gray;
+  font-family: serif;
+  font-weight: 200;
+  font-size: 15px;
+  margin-left: 443px;
+  margin-top: -7px;
+}
